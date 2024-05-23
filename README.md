@@ -1,7 +1,5 @@
 # Fault detection in Electrical Machine
 
-# Machine Anomaly Detection System
-
 ## Overview
 This project aims to develop an anomaly detection system for machines using machine learning techniques. The system is designed to detect faults or anomalies based solely on normal operation data, without relying on explicit fault data. The key features of the system are:
 
